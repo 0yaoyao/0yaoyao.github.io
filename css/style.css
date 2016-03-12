@@ -26,4 +26,6 @@ body {
     color: white;
     border-radius : 2px;
     font-family: "Times New Roman";
+    display: block;
+    margin: 0 auto;
 }
