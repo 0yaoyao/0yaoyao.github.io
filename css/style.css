@@ -27,3 +27,7 @@ body {
     border-radius : 2px;
     font-family: "Times New Roman";
 }
+.MBGDiv {
+    display: block;
+    margin: 0 auto;
+}
