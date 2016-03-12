@@ -1,8 +1,15 @@
+.whole {
+    background-color: #55ffff;
+}
+
 .yao-mpic {
     display: block;
     margin: 0 auto;
+    border: 1px solid white;
 }
 
 .center {
     text-align: center;
+    font-size: 40px;
+    border: 1px solid white;
 }
