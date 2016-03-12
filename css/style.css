@@ -21,4 +21,6 @@ body {
 .mbg {
     background-color: red;
     color: #FF003F;
+    border-radius : 2px;
+    font-family: "Times New Roman";
 }
