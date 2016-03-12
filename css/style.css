@@ -1,5 +1,5 @@
 body {
-    background-color: #FF3366;
+    background-color: #FF003F;
 }
 
 .yao-mpic {
@@ -17,4 +17,8 @@ body {
     text-align: center;
     font-size: 20px;
     font-family: "Times New Roman";
+}
+.mbg {
+    background-color: red;
+    color: #FF003F;
 }
