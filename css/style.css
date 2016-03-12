@@ -1,3 +1,4 @@
-.yao-mpic {
-  text-align: center;
+.yao-mpic.center {
+    display: block;
+    margin: 0 auto;
 }
