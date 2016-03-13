@@ -33,10 +33,7 @@ body {
     text-align: center;
 }
 .information {
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-    background-color: white;
+    background-color: gray;
 }
 .inf- {
     text-align: center;
