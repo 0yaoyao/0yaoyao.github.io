@@ -30,7 +30,5 @@ body {
 .MBGDiv {
     display: block;
     margin: 0 auto;
-}
-a {
-    color: #000000;
+    text-align: center;
 }
