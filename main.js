@@ -5,7 +5,7 @@ function fillp(elementID){
 }
 
 function fillpr(elementID){
-  document.getElementById(elementID).innerHTML = "堯堯杯世界美女獎第一名","test";
+  document.getElementById(elementID).innerHTML = "堯堯杯世界美女獎第一名""test";
 }
 
 function fillp(elementID){
