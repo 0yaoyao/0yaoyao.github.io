@@ -37,6 +37,7 @@ body {
     display: block;
     margin: 0 auto;
     text-align: center;
+    word-wrap: break-word;
 }
 .inf- {
     text-align: center;
