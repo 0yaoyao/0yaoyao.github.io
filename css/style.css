@@ -32,3 +32,15 @@ body {
     margin: 0 auto;
     text-align: center;
 }
+.iformation {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+}
+.inf- {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Times New Roman";
+    color: black;
+}
