@@ -10,6 +10,3 @@ function fillpr(elementID){
 function fillp(elementID){
   document.getElementById(elementID).innerHTML = "永遠的25歲~~~";
 }
-function yaoU(){
-  alert("堯堯醜");
-}
