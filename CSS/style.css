@@ -11,7 +11,7 @@ body {
 
 .center {
     text-align: center;
-    font-size: 41px;
+    font-size: 40px;
     color: white;
 }
 
@@ -46,11 +46,7 @@ body {
     color: black;
 }
 .middle {
-    display : block;
+    display: block;
     margin: 0 auto;
     text-align: center;
-}
-.yaoU {
-    background-color = black;
-    color = black;
 }
